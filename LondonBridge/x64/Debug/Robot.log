@@ -1,0 +1,122 @@
+﻿  robot.cpp
+F:\GP\Code\LondonBridge\robot.cpp(164,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(166,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(167,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(169,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(171,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(173,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(185,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(232,17): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(233,17): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(421,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(421,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(433,60): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(433,52): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(443,48): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(443,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(458,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(458,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(458,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(460,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(460,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(460,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(462,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(462,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(462,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(464,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(464,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(464,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(472,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(472,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(472,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(474,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(474,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(474,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(476,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(476,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(476,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(494,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(497,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(505,31): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\GP\Code\LondonBridge\robot.cpp(529,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(805,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(816,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(817,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(818,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(825,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(826,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(827,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(836,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(837,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(838,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(842,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(843,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(844,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(848,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(849,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(850,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(854,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(855,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(856,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(864,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(865,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(866,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(870,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(871,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(872,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(876,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(877,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(878,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(882,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(883,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(884,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(889,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(890,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(891,48): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(918,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(929,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(930,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(931,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(938,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(939,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(940,24): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(948,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(949,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(950,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(954,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(955,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(956,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(960,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(961,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(962,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(966,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(967,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(968,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(975,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(976,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(977,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(981,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(982,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(983,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(987,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(988,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(989,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(993,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(994,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(995,50): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1000,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1001,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1002,48): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1013,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1014,18): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1026,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1027,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1031,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1033,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1039,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1040,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1045,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\LondonBridge\robot.cpp(1047,20): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1055,20): warning C4305: '+=': truncation from 'double' to 'float'
+F:\GP\Code\LondonBridge\robot.cpp(1059,20): warning C4305: '-=': truncation from 'double' to 'float'
+  Robot.vcxproj -> F:\GP\Code\LondonBridge\x64\Debug\Robot.exe
