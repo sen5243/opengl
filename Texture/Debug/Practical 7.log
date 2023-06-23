@@ -1,0 +1,27 @@
+﻿  Practical7.cpp
+F:\GP\Code\Practical 7\Practical7.cpp(16,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\Practical 7\Practical7.cpp(68,13): warning C4305: '+=': truncation from 'double' to 'float'
+F:\GP\Code\Practical 7\Practical7.cpp(71,13): warning C4305: '-=': truncation from 'double' to 'float'
+F:\GP\Code\Practical 7\Practical7.cpp(74,13): warning C4305: '-=': truncation from 'double' to 'float'
+F:\GP\Code\Practical 7\Practical7.cpp(77,13): warning C4305: '+=': truncation from 'double' to 'float'
+F:\GP\Code\Practical 7\Practical7.cpp(161,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(165,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(173,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(181,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(182,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(184,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(238,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(240,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(242,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(244,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(335,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(390,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(411,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(412,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(439,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(448,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(464,36): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\Practical 7\Practical7.cpp(464,28): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+F:\GP\Code\Practical 7\Practical7.cpp(610,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\GP\Code\Practical 7\Practical7.cpp(631,25): warning C4305: 'argument': truncation from 'double' to 'float'
+  Practical 7.vcxproj -> F:\GP\Code\Practical 7\Debug\Practical 7.exe
