@@ -1,0 +1,4 @@
+﻿  practical4.cpp
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4A 3D Objects\Practical4\Practical4\practical4.cpp(284,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4A 3D Objects\Practical4\Practical4\practical4.cpp(290,24): warning C4305: 'argument': truncation from 'double' to 'float'
+  Practical4.vcxproj -> C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4A 3D Objects\Practical4\x64\Debug\Practical4.exe

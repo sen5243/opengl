@@ -1,0 +1,26 @@
+﻿  p3Demo.cpp
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(7,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(11,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(12,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(209,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(210,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(224,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(225,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(260,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(269,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(281,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(288,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(303,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(309,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(315,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(316,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(317,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(320,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(321,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(322,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(328,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(329,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(331,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(347,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\P3Demo\p3Demo.cpp(355,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  P3Demo.vcxproj -> C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 3 Geometry transformation Part 2\P3Demo\x64\Debug\P3Demo.exe
