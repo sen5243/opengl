@@ -1,0 +1,30 @@
+﻿  P4bDemo.cpp
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(95,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(95,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(106,30): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(106,23): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(116,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(116,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(126,47): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(126,40): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(136,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(136,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(146,39): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(146,32): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(169,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(174,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(181,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(182,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(190,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(198,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(205,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(206,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(213,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(221,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(229,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(236,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(238,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(244,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(246,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\P4BDemo\P4bDemo.cpp(251,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  P4BDemo.vcxproj -> C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 4B Quadrics Objects\P4BDemo\x64\Debug\P4BDemo.exe
