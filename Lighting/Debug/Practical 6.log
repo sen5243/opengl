@@ -1,0 +1,4 @@
+﻿  p6Prac.cpp
+F:\GP\Code\Practical 6\p6Prac.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\GP\Code\Practical 6\p6Prac.cpp(134,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Practical 6.vcxproj -> F:\GP\Code\Practical 6\Debug\Practical 6.exe
