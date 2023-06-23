@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="robot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="texture\blue_texture2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\boostFlame.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\Capture.JPG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\cute_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\dragon.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\eyeglass.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\galaxy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\galaxy_background1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\galaxy_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\galaxy_texture3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\glass_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\gold.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\head_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\invertedBoostFlame.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\ironManCircle.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\lava_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\pipe.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\red_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\tinyrobot_texture.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
