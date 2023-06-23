@@ -1,0 +1,4 @@
+F:\VisualStudio\source\repos\Grophic programming\Question1\Question1\x64\Debug\P1 Demo.exe
+I:\Graphic Programming\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\Question1\Question1\x64\Debug\P1 Demo.exe
+C:\Users\taruc\Desktop\Question1\Question1\x64\Debug\P1 Demo.exe
+C:\Users\user\OneDrive\Desktop\Lesson\Graphic Programming\Practicals\Practical 1 Intro to OpenGL & Geometry Primitives\Question1\x64\Debug\P1 Demo.exe
